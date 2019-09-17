@@ -18,6 +18,8 @@ footer {
 /*-- Main Menu Styles--*/
 nav ul {
   list-style: none;
+  margin-left: auto;
+  margin-right: auto;
   padding: 1em;
 }
 nav a:link, nav a:visited {
@@ -77,6 +79,8 @@ article figcaption {
 .pagination {
   margin-top: 2em;
   margin-bottom: 2em;
+  margin-left: auto;
+  margin-right: auto;
   width: 96%;
 }
 a.button {
