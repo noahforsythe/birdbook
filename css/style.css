@@ -18,8 +18,6 @@ footer {
 /*-- Main Menu Styles--*/
 nav ul {
   list-style: none;
-  margin-left: auto;
-  margin-right: auto;
   padding: 1em;
 }
 nav a:link, nav a:visited {
